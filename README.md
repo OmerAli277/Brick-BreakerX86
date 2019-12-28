@@ -1,6 +1,6 @@
 # Brick-BreakerX86
 ## Description 
-Brick Breaker is a simple game, which we all used to play in our childhood. It is build in assembly language based on x86 architecture. The code is simple and every functionality is divided into simple subroutines for your modification. 
+Brick Breaker is a simple game, which we all used to play in our childhood. It is build in assembly language based on x86 architecture. Every functionality is divided into subroutines for further modifications and to make code understandable. 
 ## Environment 
 Assembler: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NASM<br/>
 DOSBox x86 emulator
