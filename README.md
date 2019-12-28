@@ -15,9 +15,9 @@ game.com
 ```
 ## ScreenShots
 ##### Menu
-![alt text](https://github.com/OmerAli277/HelloWorld/blob/master/a1.jpg "Brick Breaker Game assembly language x86")
+![alt text](https://github.com/OmerAli277/HelloWorld/blob/master/a1.PNG "Brick Breaker Game assembly language x86")
 ##### GamePlay
-![alt text](https://github.com/OmerAli277/HelloWorld/blob/master/a3.jpg "Brick Breaker Game assembly language x86")
-![alt text](https://github.com/OmerAli277/HelloWorld/blob/master/a4.jpg "Brick Breaker Game assembly language x86")
+![alt text](https://github.com/OmerAli277/HelloWorld/blob/master/a3.PNG "Brick Breaker Game assembly language x86")
+![alt text](https://github.com/OmerAli277/HelloWorld/blob/master/a4.PNG "Brick Breaker Game assembly language x86")
 ##### GameEnd
-![alt text](https://github.com/OmerAli277/HelloWorld/blob/master/a2.jpg "Brick Breaker Game assembly language x86")
+![alt text](https://github.com/OmerAli277/HelloWorld/blob/master/a2.PNG "Brick Breaker Game assembly language x86")
