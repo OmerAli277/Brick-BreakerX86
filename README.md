@@ -6,10 +6,10 @@ Assembler: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; NASM
 DOSBox x86 emulator
 
 #### Create executable
-'''
+```
 nasm game.asm -o game.com
-'''
-#### RUN executable
-'''
+```
+#### Run executable
+```
 game.com
-'''
+```
